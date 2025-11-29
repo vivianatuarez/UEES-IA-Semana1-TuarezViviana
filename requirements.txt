@@ -1,1 +1,8 @@
-
+%%writefile 02_Laboratorio/requirements.txt
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+plotly
